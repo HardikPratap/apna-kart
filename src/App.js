@@ -83,7 +83,8 @@ function App() {
           incrementQuantity={incrementQuantity}
           decrementQuantity={decrementQuantity}
           removeItem={removeItem}
-        />    //product is prop name 
+        />    
+      
       </main>    
 
       <Footer />
